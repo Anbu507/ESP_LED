@@ -1,0 +1,9 @@
+# ESP-IDF build output
+build/
+
+# Ninja / CMake files
+*.ninja
+*.log
+
+# Python cache
+__pycache__/
